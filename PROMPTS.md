@@ -1,0 +1,1 @@
+Create a beautiful Frequently Asked Questions section for my DevConf 2026 website using HTML5 and CSS only. Make it look professional and consistent with the rest of the landing page.
