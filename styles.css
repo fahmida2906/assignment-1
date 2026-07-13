@@ -227,3 +227,144 @@ nav a{
     color:gray;
 
 }
+/* ================= PRICING ================= */
+
+.pricing{
+
+    width:100%;
+
+    padding:80px 0;
+
+    background:white;
+
+}
+
+.pricing h2{
+
+    text-align:center;
+
+    font-size:45px;
+
+}
+
+.price-text{
+
+    text-align:center;
+
+    color:gray;
+
+    margin-top:10px;
+
+    margin-bottom:50px;
+
+}
+
+.price-box{
+
+    width:90%;
+
+    margin:auto;
+
+    display:flex;
+
+    justify-content:space-between;
+
+}
+
+.price-card{
+
+    width:31%;
+
+    background:white;
+
+    border:1px solid #ddd;
+
+    border-radius:10px;
+
+    padding:30px;
+
+}
+
+.price-card h4{
+
+    color:gray;
+
+    margin-bottom:15px;
+
+}
+
+.price-card h1{
+
+    font-size:50px;
+
+    margin-bottom:10px;
+
+}
+
+.price-card p{
+
+    color:gray;
+
+    margin-bottom:20px;
+
+}
+
+.price-card ul{
+
+    margin-left:20px;
+
+}
+
+.price-card li{
+
+    margin-bottom:12px;
+
+}
+
+.price-card button{
+
+    width:100%;
+
+    margin-top:25px;
+
+    padding:15px;
+
+    border:none;
+
+    background:#2563eb;
+
+    color:white;
+
+    font-size:17px;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+}
+
+.pro{
+
+    background:#1f2937;
+
+    color:white;
+
+}
+
+.pro p{
+
+    color:#ddd;
+
+}
+
+.pro h4{
+
+    color:#ddd;
+
+}
+
+.pro button{
+
+    background:#2563eb;
+
+}
